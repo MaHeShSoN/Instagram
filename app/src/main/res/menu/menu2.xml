@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Report"
+        android:id="@+id/reportPost"
+        android:visible="true"
+        android:textStyle="bold"
+        />
+
+    <item android:title="Delete"
+        android:id="@+id/deletePost"
+        android:visible="true"
+        android:textStyle="bold"
+        />
+    <item android:title="Edit"
+    android:id="@+id/EditPost"
+    android:visible="true"
+    android:textStyle="bold"
+    />
+
+</menu>
